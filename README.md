@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on HTML5, CSS3 and Python
-- 📫 How to reach me ...
+- 📫 How to reach me akinfalabiahmed@gmail.com
 
 
 
