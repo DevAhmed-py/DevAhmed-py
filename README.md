@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A Frontend developer now exploring Bioinformatics</h3>
+<h3 align="center">A Software developer currently exploring Bioinformatics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devahmed-py&label=Profile%20views&color=0e75b6&style=flat" alt="devahmed-py" /> </p>
 
-- 🌱 I’m currently exploring more **Bioinformatics tools**
+- 🌱 I’m currently exploring **Bioinformatics** through Postgraduate studies at the University of Potsdam, Germany.
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevAhmed-py](https://github.com/DevAhmed-py)
 
