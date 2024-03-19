@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevAhmed-py](https://github.com/DevAhmed-py)
 
-- 💬 Ask me about **React, Python and R**
+- 💬 Ask me about **Software development and Big (biological) Data Analysis**
 
 - 📫 How to reach me **akinfalabiahmed@gmail.com**
 
