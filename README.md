@@ -1,5 +1,8 @@
 <h1 align="center">Hello, I'm Ahmed</h1>
-<h3 align="center">A Software developer currently exploring Bioinformatics</h3>
+<p> I am a dedicated Software developer currently pursuing a postgraduate in Bioinformatics. Skilled in using Python and also adept at adapting to evolving technologies and methods. A rapid learner, staying abreast of industry trends. A standout communicator and proven collaborator, consistently driving results through effective teamwork. </p>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devahmed-py&label=Profile%20views&color=0e75b6&style=flat" alt="devahmed-py" /> </p>
 
