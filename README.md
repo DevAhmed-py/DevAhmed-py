@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Ahmed</h1>
-<p>__I am a dedicated Software developer currently pursuing a postgraduate in Bioinformatics. Skilled in using Python and also adept at adapting to evolving technologies and methods. A rapid learner, staying abreast of industry trends. A standout communicator and proven collaborator, consistently driving results through effective teamwork.__</p>
+<p> I am a dedicated Software developer currently pursuing a postgraduate in Bioinformatics. Skilled in using Python and also adept at adapting to evolving technologies and methods. A rapid learner, staying abreast of industry trends. A standout communicator and proven collaborator, consistently driving results through effective teamwork. </p>
+
 
 
 
